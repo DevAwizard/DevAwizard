@@ -24,3 +24,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devAwizard&show_icons=true&locale=en&layout=compact&theme=dark" alt="devAwizard" width="40%" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=devAwizard&show_icons=true&locale=en&theme=dark" alt="otaola03" width="40%" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
