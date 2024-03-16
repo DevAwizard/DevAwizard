@@ -12,6 +12,19 @@ Welcome to my GitHub profile! My name is Anna, and I'm studying at [42](https://
 
 During a 6-month enrichment internship at a leading NGO, I had the amazing opportunity to support European projects. This transformative experience allowed me to discover my unique ability to bridge the gap between social science and technology, providing a deeper understanding of how they can collaborate for greater impact.
 
+## 🛠️ Technologies and Tools
+
+I'm proficient in or currently exploring the following technologies and tools:
+
+- C ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+- Git
+- Terminal/Bash
+- GitHub
+- Notion
+- Vim
+- Visual Studio
+
 ## 🚀 Tech Enthusiast
 
 Inspired by the transformative power of technology, I have decided to make a career change. I love embracing cutting-edge technology and using it to inspire social innovation. My goal is to have a lasting impact on society by harnessing the power of technology for positive change.
