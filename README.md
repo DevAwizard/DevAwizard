@@ -23,6 +23,7 @@ I am excited to connect with like-minded individuals, organizations, and technol
 - 📫 How to reach me: [LinkedIn](Your-LinkedIn-Profile-URL)
 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=devAwizard&left_color=green&right_color=red)
 
 
 ---
