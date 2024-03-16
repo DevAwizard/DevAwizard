@@ -1,5 +1,6 @@
-![License](https://img.shields.io/github/license/DevAwizard/DevAwizard?style=flat)
 ![ViewCount](http://bit.ly/DevAwizard-Visits)
+
+![ViewCount](http://bit.ly/Thomas-Github-Visits)
 
 # Hello, I'm Anna 👋 <img src="https://img.shields.io/badge/42-%23000000.svg?&style=for-the-badge&logo=42&logoColor=white" />
 
