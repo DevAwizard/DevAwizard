@@ -1,3 +1,6 @@
+![License](https://img.shields.io/github/license/DevAwizard/DevAwizard?style=flat)
+![ViewCount](http://bit.ly/DevAwizard-Visits)
+
 # Hello, I'm Anna 👋 <img src="https://img.shields.io/badge/42-%23000000.svg?&style=for-the-badge&logo=42&logoColor=white" />
 
 [![](https://img.shields.io/badge/-@DevAwizard-%23181717?style=flat-square&logo=github)](https://github.com/DevAwizard)
@@ -40,8 +43,8 @@ I am excited to connect with like-minded individuals, organizations, and technol
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=devAwizard&left_color=green&right_color=red)
 
+![DevAwizard`s github stats](https://github-readme-stats.vercel.app/api?username=DevAwizard&show_icons=true&theme=dracula)
 
 ---
 
