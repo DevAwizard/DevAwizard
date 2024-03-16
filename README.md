@@ -15,4 +15,5 @@
  
  
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=DevAwizard&left_color=green&right_color=red)
-                
+ https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=devAwizard&left_color=green&right_color=red)
