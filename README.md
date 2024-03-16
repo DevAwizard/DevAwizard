@@ -39,7 +39,6 @@ Looking ahead, I am on a mission to make a difference in lives and have a positi
 
 I am excited to connect with like-minded individuals, organizations, and technology enthusiasts who share my vision of a bright future. If you are interested in innovation, embrace technology, and want to make a real difference in the world, I would love to connect with you!
 
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-Profile-URL)
 
 ![DevAwizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAwizard&show_icons=true&theme=dracula)
 
