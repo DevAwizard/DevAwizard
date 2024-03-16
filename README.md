@@ -3,7 +3,7 @@
 # Hello, I'm Anna 👋 <img src="https://img.shields.io/badge/42-%23000000.svg?&style=for-the-badge&logo=42&logoColor=white" />
 
 [![](https://img.shields.io/badge/-@DevAwizard-%23181717?style=flat-square&logo=github)](https://github.com/DevAwizard)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](Your-LinkedIn-Profile-URL)
+[![Linkedin: Anita.](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://es.linkedin.com/in/anna-w-3902b510a)
 
 ## Introduction
 
