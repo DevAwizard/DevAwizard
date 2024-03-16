@@ -1,5 +1,9 @@
 # Hello, I'm Anna 👋
 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/42-%23000000.svg?&style=for-the-badge&logo=42&logoColor=white" />
+
+
 ## Introduction
 
 Welcome to my GitHub profile! My name is Anna, and I'm studying at [42](https://www.42network.org/), a unique and innovative engineering and programming school that fosters creativity, collaboration, and deep technical skills through a peer-to-peer learning environment. I have a deep passion for technology, international relations, and creating a positive impact through innovation. As a tech enthusiast and problem solver, I am committed to continuous improvement and unlocking my full potential as a professional. With a creative mind and an unquenchable thirst for inspiring ideas, I push boundaries and embark on amazing projects to create meaningful milestones.
