@@ -37,6 +37,7 @@ I am excited to connect with like-minded individuals, organizations, and technol
 
 - 📫 How to reach me: [LinkedIn](Your-LinkedIn-Profile-URL)
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=devAwizard&left_color=green&right_color=red)
 
