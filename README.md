@@ -3,8 +3,7 @@
 # Hello, I'm Anna 👋 <img src="https://img.shields.io/badge/42-%23000000.svg?&style=for-the-badge&logo=42&logoColor=white" />
 
 [![](https://img.shields.io/badge/-@DevAwizard-%23181717?style=flat-square&logo=github)](https://github.com/DevAwizard)
-<a target="_blank" href="https://www.linkedin.com/in/anna-w-3902b510a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](Your-LinkedIn-Profile-URL)
 
 ## Introduction
 
@@ -18,15 +17,15 @@ During a 6-month enrichment internship at a leading NGO, I had the amazing oppor
 
 I'm proficient in or currently exploring the following technologies and tools:
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 🚀 Tech Enthusiast
 
@@ -36,17 +35,15 @@ Inspired by the transformative power of technology, I have decided to make a car
 
 Looking ahead, I am on a mission to make a difference in lives and have a positive impact. I am eager to continue learning new things, as my curiosity drives me towards constant growth and exploration. I aim to pursue projects that align with my goals and visions, integrating what I have learned so far with technology to foster innovation and create solutions that benefit society.
 
-## 🗣️ Let’s Connect
+## 🗣️ Let's Connect
 
 I am excited to connect with like-minded individuals, organizations, and technology enthusiasts who share my vision of a bright future. If you are interested in innovation, embrace technology, and want to make a real difference in the world, I would love to connect with you!
 
-- 📫 How to reach me: [LinkedIn](Your-LinkedIn-Profile-URL)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-Profile-URL)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
-![DevAwizard`s github stats](https://github-readme-stats.vercel.app/api?username=DevAwizard&show_icons=true&theme=dracula)
+![DevAwizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAwizard&show_icons=true&theme=dracula)
 
 ---
+
 
 
