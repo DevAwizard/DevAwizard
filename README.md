@@ -1,5 +1,3 @@
-![ViewCount](http://bit.ly/DevAwizard-Visits)
-
 # Hello, I'm Anna 👋 <img src="https://img.shields.io/badge/42-%23000000.svg?&style=for-the-badge&logo=42&logoColor=white" />
 
 [![](https://img.shields.io/badge/-@DevAwizard-%23181717?style=flat-square&logo=github)](https://github.com/DevAwizard)
