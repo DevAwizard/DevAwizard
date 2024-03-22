@@ -3,6 +3,12 @@
 [![](https://img.shields.io/badge/-@DevAwizard-%23181717?style=flat-square&logo=github)](https://github.com/DevAwizard)
 [![Linkedin: Anita.](https://img.shields.io/badge/-Anita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://es.linkedin.com/in/anna-w-3902b510a)
 
+⏳ Year progress { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 22.27 %
+
+⏰ Updated on Fri, 22 Mar 2024 12:19:07 GMT
+
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+
 ### Introduction
 
 Welcome to my GitHub profile! My name is Anna, and I'm studying at [42](https://www.42network.org/), a unique and innovative engineering and programming school that fosters creativity, collaboration, and deep technical skills through a peer-to-peer learning environment. I have a deep passion for technology, international relations, and creating a positive impact through innovation. As a tech enthusiast and problem solver, I am committed to continuous improvement and unlocking my full potential as a professional. With a creative mind and an unquenchable thirst for inspiring ideas, I push boundaries and embark on amazing projects to create meaningful milestones.
