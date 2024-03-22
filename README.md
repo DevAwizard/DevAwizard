@@ -47,7 +47,7 @@ I am excited to connect with like-minded individuals, organizations, and technol
 ![DevAwizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAwizard&show_icons=true&theme=dracula)
 
 
-![Visitor Count](https://profile-counter.glitch.me/{DevAwizard}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/DevAwizard/count.svg)
 
 
 ---
