@@ -17,7 +17,7 @@ Welcome to my GitHub profile! My name is Anna, and I'm studying at [42](https://
 
 During a 6-month enrichment internship at a leading NGO, I had the amazing opportunity to support European projects. This transformative experience allowed me to discover my unique ability to bridge the gap between social science and technology, providing a deeper understanding of how they can collaborate for greater impact.
 
-###🛠️ Technologies and Tools
+### 🛠️ Technologies and Tools
 
 I'm proficient in or currently exploring the following technologies and tools:
 
