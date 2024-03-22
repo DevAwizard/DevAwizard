@@ -3,15 +3,15 @@
 [![](https://img.shields.io/badge/-@DevAwizard-%23181717?style=flat-square&logo=github)](https://github.com/DevAwizard)
 [![Linkedin: Anita.](https://img.shields.io/badge/-Anita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://es.linkedin.com/in/anna-w-3902b510a)
 
-## Introduction
+### Introduction
 
 Welcome to my GitHub profile! My name is Anna, and I'm studying at [42](https://www.42network.org/), a unique and innovative engineering and programming school that fosters creativity, collaboration, and deep technical skills through a peer-to-peer learning environment. I have a deep passion for technology, international relations, and creating a positive impact through innovation. As a tech enthusiast and problem solver, I am committed to continuous improvement and unlocking my full potential as a professional. With a creative mind and an unquenchable thirst for inspiring ideas, I push boundaries and embark on amazing projects to create meaningful milestones.
 
-## 💼 Latest Work Experience
+### 💼 Latest Work Experience
 
 During a 6-month enrichment internship at a leading NGO, I had the amazing opportunity to support European projects. This transformative experience allowed me to discover my unique ability to bridge the gap between social science and technology, providing a deeper understanding of how they can collaborate for greater impact.
 
-## 🛠️ Technologies and Tools
+###🛠️ Technologies and Tools
 
 I'm proficient in or currently exploring the following technologies and tools:
 
@@ -25,17 +25,34 @@ I'm proficient in or currently exploring the following technologies and tools:
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 🚀 Tech Enthusiast
+### 🚀 Tech Enthusiast
 
 Inspired by the transformative power of technology, I have decided to make a career change. I love embracing cutting-edge technology and using it to inspire social innovation. My goal is to have a lasting impact on society by harnessing the power of technology for positive change.
 
-## 💡 Future Vision
+### 💡 Future Vision
 
 Looking ahead, I am on a mission to make a difference in lives and have a positive impact. I am eager to continue learning new things, as my curiosity drives me towards constant growth and exploration. I aim to pursue projects that align with my goals and visions, integrating what I have learned so far with technology to foster innovation and create solutions that benefit society.
 
-## 🗣️ Let's Connect
+### 🗣️ Let's Connect
 
 I am excited to connect with like-minded individuals, organizations, and technology enthusiasts who share my vision of a bright future. If you are interested in innovation, embrace technology, and want to make a real difference in the world, I would love to connect with you!
+
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 
 ![DevAwizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAwizard&show_icons=true&theme=dracula)
