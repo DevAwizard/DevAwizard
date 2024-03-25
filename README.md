@@ -50,10 +50,9 @@ Looking ahead, I am on a mission to make a difference in lives and have a positi
 I am excited to connect with like-minded individuals, organizations, and technology enthusiasts who share my vision of a bright future. If you are interested in innovation, embrace technology, and want to make a real difference in the world, I would love to connect with you!
 
 <h2> 📊 Stats </h3>
-![DevAwizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAwizard&show_icons=true&theme=dracula)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAwizard&show_icons=true&locale=en&layout=compact&theme=dark" alt="DevAwizard" width="40%" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=DevAwizard&show_icons=true&locale=en&theme=dark" alt="DevAwizard" width="40%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAwizard&show_icons=true&locale=en&layout=compact&theme=dracula" alt="DevAwizard" width="40%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=DevAwizard&show_icons=true&locale=en&theme=dracula" alt="DevAwizard" width="40%" />
 
 ---
 
