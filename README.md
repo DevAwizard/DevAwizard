@@ -56,8 +56,6 @@ I am excited to connect with like-minded individuals, organizations, and technol
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DevAwizard&show_icons=true&locale=en&theme=dracula" alt="DevAwizard" width="40%" />
 
 
----
-
 
 
 
