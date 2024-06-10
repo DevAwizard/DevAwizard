@@ -5,7 +5,7 @@
 
 [![](https://img.shields.io/badge/-@DevAwizard-%23181717?style=flat-square&logo=github)](https://github.com/DevAwizard)
 [![Linkedin: Anita.](https://img.shields.io/badge/-Anita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://es.linkedin.com/in/anna-w-3902b510a)
-
+<img src="https://img.shields.io/badge/42-%23000000.svg?&style=for-the-badge&logo=42&logoColor=white" /> 
 
 ### Introduction
 
