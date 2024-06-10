@@ -1,7 +1,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/DevAwizard/count.svg)
 
 
-# Hello, I'm Anna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> <img src="https://img.shields.io/badge/42-%23000000.svg?&style=for-the-badge&logo=42&logoColor=white" />
+# Hello, I'm Anna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 [![](https://img.shields.io/badge/-@DevAwizard-%23181717?style=flat-square&logo=github)](https://github.com/DevAwizard)
 [![Linkedin: Anita.](https://img.shields.io/badge/-Anita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://es.linkedin.com/in/anna-w-3902b510a)
@@ -9,7 +9,7 @@
 
 ### Introduction
 
-Welcome to my GitHub profile! My name is Anna, and I'm studying at [42](https://www.42network.org/), a unique and innovative engineering and programming school that fosters creativity, collaboration, and deep technical skills through a peer-to-peer learning environment. 
+Welcome to my GitHub profile! My name is Anna, and I'm studying at <img src="https://img.shields.io/badge/42-%23000000.svg?&style=for-the-badge&logo=42&logoColor=white" /> [42](https://www.42network.org/), a unique and innovative engineering and programming school that fosters creativity, collaboration, and deep technical skills through a peer-to-peer learning environment. 
 
 I have a deep passion for technology, international relations, and creating a positive impact through innovation. As a tech enthusiast and problem solver, I am committed to continuous improvement and unlocking my full potential as a professional. With a creative mind and an unquenchable thirst for inspiring ideas, I push boundaries and embark on amazing projects to create meaningful milestones.
 
