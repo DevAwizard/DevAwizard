@@ -43,7 +43,7 @@ Looking ahead, I am on a mission to make a difference in lives and have a positi
 
 I am excited to connect with like-minded individuals, organizations, and technology enthusiasts who share my vision of a bright future. If you are interested in innovation, embrace technology, and want to make a real difference in the world, I would love to connect with you!
 
-🇬🇧🇨🇳🇫🇷🇪🇦 Contact me with those language 
+🇬🇧🇨🇳🇫🇷🇪🇦 Contact me with those languages
 
 
 ### 📊 Stats
