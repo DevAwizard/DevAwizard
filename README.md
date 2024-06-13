@@ -3,20 +3,12 @@
 [![Progress](https://img.shields.io/badge/Progress-In%20Progress-yellow)](https://github.com/DevAwizard/Exams_42) 
 
 # Hello, I'm Anna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-
-- 🎓&nbsp;BSocSc in International Relations
-- 👨‍💻&nbsp;42 student
-- 🐥&nbsp;<a target="_blank" href="https://www.42urduliz.com/">42-Urduliz</a> - intra: <b>anwu-yan/b>
-- 🗣️&nbsp; 🇹🇷🇺🇸🇵🇱 Contact me with those language 
-
-
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/anna-w-3902b510a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a target="_blank" href="(https://github.com/DevAwizard)"><img src="https://img.shields.io/badge/-@DevAwizard-%23181717?style=flat-square&logo=github"></a>
  <a target="_blank" href="mailto:nana.wyang@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </p>
 </br>
-
 
 ### Introduction
 
