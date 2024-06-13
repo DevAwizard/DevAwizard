@@ -1,18 +1,21 @@
 ![Visitor Count](https://profile-counter.glitch.me/DevAwizard/count.svg)
 
 
+# Hello, I'm Anna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 - 🎓&nbsp;BSocSc in International Relations
-
 - 👨‍💻&nbsp;42 student
 - 🐥&nbsp;<a target="_blank" href="https://www.42urduliz.com/">42-Heilbron</a> - intra: <b>anwu-yan/b>
 - 🗣️&nbsp; 🇹🇷🇺🇸🇵🇱 Contact me with those language 
 
-# Hello, I'm Anna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-[![](https://img.shields.io/badge/-@DevAwizard-%23181717?style=flat-square&logo=github)](https://github.com/DevAwizard)
-[![Linkedin: Anita.](https://img.shields.io/badge/-Anita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://es.linkedin.com/in/anna-w-3902b510a)
-<img src="https://img.shields.io/badge/42-%23000000.svg?&style=for-the-badge&logo=42&logoColor=white" /> 
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/anna-w-3902b510a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a target="_blank" href="(https://github.com/DevAwizard)"><img src="https://img.shields.io/badge/-@DevAwizard-%23181717?style=flat-square&logo=github"></a>
+ <a target="_blank" href="mailto:nana.wyang@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  </p>
+</br>
+
 
 ### Introduction
 
