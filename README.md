@@ -5,7 +5,7 @@
 
 - 🎓&nbsp;BSocSc in International Relations
 - 👨‍💻&nbsp;42 student
-- 🐥&nbsp;<a target="_blank" href="https://www.42urduliz.com/">42-Heilbron</a> - intra: <b>anwu-yan/b>
+- 🐥&nbsp;<a target="_blank" href="https://www.42urduliz.com/">42-Urduliz</a> - intra: <b>anwu-yan/b>
 - 🗣️&nbsp; 🇹🇷🇺🇸🇵🇱 Contact me with those language 
 
 
