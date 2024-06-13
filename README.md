@@ -1,5 +1,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/DevAwizard/count.svg)
 
+[![Progress](https://img.shields.io/badge/Progress-In%20Progress-yellow)](https://github.com/DevAwizard/Exams_42) 
 
 # Hello, I'm Anna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
