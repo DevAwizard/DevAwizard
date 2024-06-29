@@ -6,9 +6,9 @@
 
 **Hello community** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-I'm <b>Anita</b>, also known as DevAwizard.
+I'm <b>Anita</b>, also known as DevAwizard .
 
-- Currently Studying Coding at <a href="https://www.42urduliz.com/"> 42 </a> School in Spain. 🇪🇸 <br>
+- Currently Studying Coding 👩🏻‍💻 at <a href="https://www.42urduliz.com/"> 42 </a> School in Spain. 🇪🇸 <br>
 - Majored in International Relations 🗺️
 - Love languages. 🗣️<br>
 
