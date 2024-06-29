@@ -2,7 +2,7 @@
 
 [![Progress](https://img.shields.io/badge/Progress-In%20Progress-yellow)](https://github.com/DevAwizard/Exams_42) 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=70&duration=4000&pause=500&color=C997FF&random=false&width=250&height=130&lines=Hola+;Hello;Bonjour;%E4%BD%A0%E5%A5%BD;%EC%95%88%EB%85%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=4000&pause=500&color=000000&random=false&width=300&height=130&lines=Hola+;Hello;Bonjour;%E4%BD%A0%E5%A5%BD;%EC%95%88%EB%85%95)](https://git.io/typing-svg)
 
 **Hello community** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
