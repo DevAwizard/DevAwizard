@@ -2,8 +2,7 @@
 
 [![Progress](https://img.shields.io/badge/Progress-In%20Progress-yellow)](https://github.com/DevAwizard/Exams_42) 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=70&pause=1000&color=C997FF&random=false&width=300&height=115&lines=Hola;Hello;%E4%BD%A0%E5%A5%BD;Bonjour;%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=70&duration=4000&pause=1000&color=C997FF&random=false&width=250&height=130&lines=Hola+;Hello;Bonjour;%E4%BD%A0%E5%A5%BD;%EC%95%88%EB%85%95;Glib+jocks+quiz+nymph+to+vex+dwarf)](https://git.io/typing-svg)
 
 **Hello community** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
@@ -13,9 +12,7 @@ I'm <b>Anita</b>, also known as DevAwizard.
 - Majored in International Relations 🗺️
 - Love languages. 🗣️<br>
 
-
 **🇬🇧🇨🇳🇫🇷🇪🇦** **Contact me with those languages**
-
 
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/anna-w-3902b510a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
