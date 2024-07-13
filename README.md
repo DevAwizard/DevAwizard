@@ -44,7 +44,7 @@ I'm <b>Anita</b>, also known as DevAwizard .
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/clwuyang/clwuyang/output/snake.svg" alt="Snake animation" />
+
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
