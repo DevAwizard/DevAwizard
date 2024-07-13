@@ -42,5 +42,8 @@ I'm <b>Anita</b>, also known as DevAwizard .
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAwizard&show_icons=true&locale=en&layout=compact&theme=dark" alt="DevAwizard" width="40%" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DevAwizard&show_icons=true&locale=en&theme=dark" alt="DevAwizard" width="40%" />
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/clwuyang/clwuyang/output/snake.svg" alt="Snake animation" />
 
 
