@@ -45,9 +45,6 @@ I'm <b>Anita</b>, also known as DevAwizard .
 <br clear="both">
 
 
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="92d5ab3d-5e86-442d-8b36-dac21690aa1b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
 
