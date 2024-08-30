@@ -22,7 +22,7 @@ I'm <b>Anita</b>, also known as DevAwizard .
 </br>
 
 
-<h2 align="center">🚀 42 Projects Progress</h2>
+<h2 align="left">🚀 42 Projects Progress</h2>
 
 <table>
 <tr>
@@ -39,6 +39,22 @@ I'm <b>Anita</b>, also known as DevAwizard .
 </table>
 
 
+
+<h2 align="left">🛠️ 42 Tools</h2>
+
+<table>
+<tr>
+<th align="left"> &nbsp; Essential Tools and Resources for 42 Students.</th>
+</tr>
+<tr>
+<td>
+
+| [42 Exams](https://github.com/DevAwizard/Exams_42) | [42 Resources](https://github.com/DevAwizard/42_resources) |
+|--|--|
+
+</td>
+</tr>
+</table>
 
 
 
