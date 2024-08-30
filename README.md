@@ -26,7 +26,7 @@ I'm <b>Anita</b>, also known as DevAwizard .
 
 <table>
 <tr>
-<th align="left"> &nbsp; Common Core Projects - From Libft To Transcendence.</th>
+<th align="left"> &nbsp; Common Core Projects</th>
 </tr>
 <tr>
 <td>
