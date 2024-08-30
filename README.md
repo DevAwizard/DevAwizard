@@ -22,6 +22,24 @@ I'm <b>Anita</b>, also known as DevAwizard .
 </br>
 
 
+<h2 align="center">🚀 42 Projects Progress</h2>
+
+<table>
+<tr>
+<th align="left"> &nbsp; Common Core Projects - From Libft To Transcendence.</th>
+</tr>
+<tr>
+<td>
+
+| [Libft](https://github.com/DevAwizard/Libft_by_anwu-yan) ✔️ Completed | [Born2BeRoot](https://github.com/DevAwizard/Born2BeRoot_Guide_by_anwu-yan) ✔️ Completed | [Printf](https://github.com/DevAwizard/Printf_by_anwu-yan) ✔️ Completed | [Get_Next_Line](https://github.com/DevAwizard/GetNextLine_by_anwuyan) ✔️ Completed | Pipex 🕑 | [So_Long](https://github.com/DevAwizard/So_Long_By_anwu-yan) ✔️ Completed | [Push_Swap](https://github.com/pasqualerossi/Push_Swap) ✔️ Completed | Philosophers ❌ Not Started | Minishell ❌ Not Started | NetPractice ❌ Not Started | Cub3D ❌ Not Started | C++ Modules ❌ Not Started | WebServer ❌ Not Started | Inception ❌ Not Started | Transcendence ❌ Not Started |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+
+</td>
+</tr>
+</table>
+
+
+
 
 **Currently learning** 🛠️
 
