@@ -40,7 +40,7 @@ I'm <b>Anita</b>, also known as DevAwizard .
 
 
 
-<h2 align="left">🛠️ 42 Tools</h2>
+<h2 align="center">🛠️ 42 Tools</h2>
 
 <table>
 <tr>
@@ -49,13 +49,12 @@ I'm <b>Anita</b>, also known as DevAwizard .
 <tr>
 <td>
 
-| [42 Exams](https://github.com/DevAwizard/Exams_42) | [42 Resources](https://github.com/DevAwizard/42_resources) |
-|--|--|
+| [Common Code Guide](https://github.com/DevAwizard/Common_code_guide) | [42 Exams](https://github.com/DevAwizard/Exams_42) | [42 Resources](https://github.com/DevAwizard/42_resources) |
+|--|--|--|
 
 </td>
 </tr>
 </table>
-
 
 
 
