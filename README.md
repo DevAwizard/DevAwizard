@@ -22,7 +22,7 @@ I'm <b>Anita</b>, also known as DevAwizard .
 </br>
 
 
-<h2 align="left">🚀 42 Projects Progress</h2>
+<h2 align="left">🌙 42 Projects Progress</h2>
 
 <table>
 <tr>
