@@ -40,7 +40,7 @@ I'm <b>Anita</b>, also known as DevAwizard .
 
 
 
-<h2 align="center">🛠️ 42 Tools</h2>
+<h2 align="left">🛠️ 42 Tools</h2>
 
 <table>
 <tr>
