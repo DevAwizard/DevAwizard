@@ -1,8 +1,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/DevAwizard/count.svg)
 
-
-![Profile Visits](https://komarev.com/ghpvc/?username=DevAwizard&style=flat&color=blue&label=Profile+Visits)
-
 [![Progress](https://img.shields.io/badge/Progress-In%20Progress-yellow)](https://github.com/DevAwizard/Exams_42) 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=4000&pause=500&color=000000&random=false&width=300&height=130&lines=Hola+;Hello;Bonjour;%E4%BD%A0%E5%A5%BD;%EC%95%88%EB%85%95)](https://git.io/typing-svg)
