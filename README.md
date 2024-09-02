@@ -14,12 +14,16 @@ I'm <b>Anita</b>, also known as DevAwizard .
 
 **🇬🇧🇨🇳🇫🇷🇪🇦** **Contact me with those languages**
 
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/anna-w-3902b510a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a target="_blank" href="(https://github.com/DevAwizard)"><img src="https://img.shields.io/badge/-@DevAwizard-%23181717?style=flat-square&logo=github"></a>
- <a target="_blank" href="mailto:ana.wyang@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  </p>
-</br>
+<div align="left">
+  <h3>My Social Media</h3>
+  <a href="https://www.linkedin.com/in/anna-w-3902b510a/" target="_blank">
+    <img align="left" src="https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/linkedin.svg" alt="LinkedIn" width="42px"/>
+  </a>
+  &emsp;
+  <a href="mailto:ana.wyang@gmail.com">
+    <img align="left" src="https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/gmail.svg" alt="Gmail" width="42px"/>
+  </a>
+</div>
 
 
 <h2 align="left">🌙 42 Projects Progress</h2>
@@ -63,7 +67,7 @@ I'm <b>Anita</b>, also known as DevAwizard .
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,c,vim,linux,vscode,md,bash,apple,powershell" />
+    <img src="https://skillicons.dev/icons?i=github,git,c,vim,linux,vscode,md,bash,powershell" />
   </a>
 </p>
 
