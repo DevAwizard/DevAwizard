@@ -19,11 +19,10 @@ I'm <b>Anita</b>, also known as DevAwizard .
   <a href="https://www.linkedin.com/in/anna-w-3902b510a/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/linkedin.svg" alt="LinkedIn" width="42px"/>
   </a>
-  &emsp;
-  <a href="mailto:ana.wyang@gmail.com">
-    <img align="left" src="https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/gmail.svg" alt="Gmail" width="42px"/>
-  </a>
 </div>
+
+
+
 
 
 <h2 align="left">🌙 42 Projects Progress</h2>
