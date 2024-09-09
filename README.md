@@ -11,7 +11,7 @@ I'm <b>Anita</b>, also known as DevAwizard .
 - Currently Studying Coding 👩🏻‍💻 at <a href="https://www.42urduliz.com/"> 42 </a> School in Spain. 🇪🇸 <br>
 - Majored in International Relations 🗺️
 - Love languages. 🗣️<br>
-- I'm interested in Cibersecurity, Project Management, Machine Learning.
+- I'm interested in Cibersecurity, Project Management and Machine Learning.
 
 **🇬🇧🇨🇳🇫🇷🇪🇦** **Contact me with those languages**
 
