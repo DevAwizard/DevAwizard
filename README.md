@@ -26,12 +26,9 @@ I'm <b>Anita</b>, also known as DevAwizard .
 
 
 
-<h2 align="left">🌙 42 Projects Progress</h2>
+<h2 align="left">🌙 42 Common Core Projects Progress</h2>
 
 <table>
-<tr>
-<th align="left"> &nbsp; Common Core Projects</th>
-</tr>
 <tr>
 <td>
 
@@ -47,9 +44,6 @@ I'm <b>Anita</b>, also known as DevAwizard .
 <h2 align="left">🛠️ 42 Tools</h2>
 
 <table>
-<tr>
-<th align="left"> &nbsp; Essential Tools and Resources for 42 Students.</th>
-</tr>
 <tr>
 <td>
 
