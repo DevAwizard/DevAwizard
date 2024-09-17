@@ -15,12 +15,7 @@ I'm <b>Anita</b>, also known as DevAwizard .
 
 **🇬🇧🇨🇳🇫🇷🇪🇦** **Contact me with those languages**
 
-<div align="left">
-  <h3>My Social Media</h3>
-  <a href="https://www.linkedin.com/in/anna-w-3902b510a/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/linkedin.svg" alt="LinkedIn" width="42px"/>
-  </a>
-</div>
+
 
 &emsp;
 
