@@ -27,7 +27,7 @@ I'm <b>Anita</b>, also known as DevAwizard .
 <tr>
 <td>
 
-| [Libft](https://github.com/DevAwizard/Libft_by_anwu-yan) ✔️ Completed | [Born2BeRoot](https://github.com/DevAwizard/Born2BeRoot_Guide_by_anwu-yan) ✔️ Completed | [Printf](https://github.com/DevAwizard/Printf_by_anwu-yan) ✔️ Completed | [Get_Next_Line](https://github.com/DevAwizard/GetNextLine_by_anwuyan) ✔️ Completed | [So_Long](https://github.com/DevAwizard/So_Long_By_anwu-yan) ✔️ Completed | [Push_Swap](https://github.com/DevAwizard/PushSwap_by_an-wuyan) ✔️ Completed | [Pipex](https://github.com/DevAwizard/pipex_by_anwu-yan) ✔️ Completed |  Philosophers ❌ Not Started | Minishell 🕑 In Progress | NetPractice ❌ Not Started | Cub3D ❌ Not Started | C++ Modules ❌ Not Started | WebServer ❌ Not Started | Inception ❌ Not Started | Transcendence ❌ Not Started |
+| [Libft](https://github.com/DevAwizard/Libft_by_anwu-yan) ✔️ Completed | [Born2BeRoot](https://github.com/DevAwizard/Born2BeRoot_Guide_by_anwu-yan) ✔️ Completed | [Printf](https://github.com/DevAwizard/Printf_by_anwu-yan) ✔️ Completed | [Get_Next_Line](https://github.com/DevAwizard/GetNextLine_by_anwuyan) ✔️ Completed | [So_Long](https://github.com/DevAwizard/So_Long_By_anwu-yan) ✔️ Completed | [Push_Swap](https://github.com/DevAwizard/PushSwap_by_an-wuyan) ✔️ Completed | [Pipex](https://github.com/DevAwizard/pipex_by_anwu-yan) ✔️ Completed | Minishell 🕑 In Progress | Philosophers ❌ Not Started | NetPractice ❌ Not Started | Cub3D ❌ Not Started | C++ Modules ❌ Not Started | WebServer ❌ Not Started | Inception ❌ Not Started | Transcendence ❌ Not Started |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 
 </td>
