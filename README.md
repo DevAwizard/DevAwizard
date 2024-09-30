@@ -4,16 +4,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=4000&pause=500&color=000000&random=false&width=300&height=130&lines=Hola+;Hello;Bonjour;%E4%BD%A0%E5%A5%BD;%EC%95%88%EB%85%95)](https://git.io/typing-svg)
 
-**Hello community** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+**👋 Hello Community!** 
 
-I'm <b>Anita</b>, also known as DevAwizard .
+I'm **Anita**, also known as **DevAwizard**, an aspiring software engineer with a background in International Relations.
 
-- Currently Studying Coding 👩🏻‍💻 at <a href="https://www.42urduliz.com/"> 42 </a> School in Spain. 🇪🇸 <br>
-- Majored in International Relations 🗺️
-- Love languages. 🗣️<br>
-- I'm interested in Cibersecurity, Project Management and Machine Learning.
+- 👩🏻‍💻 Currently studying **Software Development** at [42 School in Spain](https://www.42urduliz.com/). 🇪🇸
+- 🌍 **International Relations Graduate** with a passion for applying a global perspective to technology.
+- 🗣️ **Polyglot**: Fluent in **English, Chinese, French, and Spanish**. Basic knowledge of **German, Korean, and Portuguese**. Able to **understand and communicate in Basque**.
+- 💡 Interested in **Cybersecurity**, **Project Management**, and **Machine Learning**.
 
-**🇬🇧🇨🇳🇫🇷🇪🇦** **Contact me with those languages**
+🌟 Feel free to **connect with me** in any of the above languages!
+
 
 
 
@@ -21,34 +22,36 @@ I'm <b>Anita</b>, also known as DevAwizard .
 
 
 
-<h2 align="left">🌙 42 Common Core Projects Progress</h2>
 
-<table>
-<tr>
-<td>
+### **🌙 42 Common Core Projects Progress**
 
-| [Libft](https://github.com/DevAwizard/Libft_by_anwu-yan) ✔️ Completed | [Born2BeRoot](https://github.com/DevAwizard/Born2BeRoot_Guide_by_anwu-yan) ✔️ Completed | [Printf](https://github.com/DevAwizard/Printf_by_anwu-yan) ✔️ Completed | [Get_Next_Line](https://github.com/DevAwizard/GetNextLine_by_anwuyan) ✔️ Completed | [So_Long](https://github.com/DevAwizard/So_Long_By_anwu-yan) ✔️ Completed | [Push_Swap](https://github.com/DevAwizard/PushSwap_by_an-wuyan) ✔️ Completed | [Pipex](https://github.com/DevAwizard/pipex_by_anwu-yan) ✔️ Completed | [Minishell](https://github.com/DevAwizard/Minishell_by_anwu-yan_aurgonza) 🕑 In Progress | Philosophers ❌ Not Started | NetPractice ❌ Not Started | Cub3D ❌ Not Started | C++ Modules ❌ Not Started | WebServer ❌ Not Started | Inception ❌ Not Started | Transcendence ❌ Not Started |
-|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+| Project | Status | Description | Language Used |
+|--|--|--|--|
+| [Libft](https://github.com/DevAwizard/Libft_by_anwu-yan) | ✔️ Completed | A library of standard C functions, built from scratch to understand memory management and linked lists. | C |
+| [Born2BeRoot](https://github.com/DevAwizard/Born2BeRoot_Guide_by_anwu-yan) | ✔️ Completed | Focused on system administration, creating and configuring a virtual machine. | Shell, Linux |
+| [Printf](https://github.com/DevAwizard/Printf_by_anwu-yan) | ✔️ Completed | Recreated the standard printf function, gaining a deeper understanding of variadic functions. | C |
+| [Get_Next_Line](https://github.com/DevAwizard/GetNextLine_by_anwuyan) | ✔️ Completed | Implemented a function to read lines from a file, improving buffer handling. | C |
+| [So_Long](https://github.com/DevAwizard/So_Long_By_anwu-yan) | ✔️ Completed | Developed a small 2D game using C, exploring game mechanics and graphics programming. | C |
+| [Push_Swap](https://github.com/DevAwizard/PushSwap_by_an-wuyan) | ✔️ Completed | Built a sorting algorithm using stacks, optimizing operations to minimize time complexity. | C |
+| [Pipex](https://github.com/DevAwizard/pipex_by_anwu-yan) | ✔️ Completed | Emulated shell pipelines in C, which strengthened my understanding of UNIX systems. | C |
+| [Minishell](https://github.com/DevAwizard/Minishell_by_anwu-yan_aurgonza) | 🕑 In Progress | Collaborating to create a custom shell, diving into process management and signals. | C, Shell |
+| Philosophers | ❌ Not Started | Planned to understand concurrency issues and deadlock solutions using the dining philosophers problem. | C |
+| NetPractice | ❌ Not Started | A project aimed at gaining an understanding of networking fundamentals, including IP routing and subnetting. | Networking Concepts |
+| Cub3D | ❌ Not Started | A project focused on creating a simple 3D game engine, exploring ray-casting techniques. | C |
+| C++ Modules | ❌ Not Started | An introduction to the basics of C++ programming, object-oriented design, and modular coding. | C++ |
+| WebServer | ❌ Not Started | Develop a simple HTTP server to understand network programming and request handling. | C, HTTP |
+| Inception | ❌ Not Started | A project to explore Docker and virtualization by setting up multiple services using containers. | Docker, Linux |
+| Transcendence | ❌ Not Started | A full-stack web project intended to create a multiplayer game using a modern web technology stack. | JavaScript, HTML, CSS |
 
-</td>
-</tr>
-</table>
 
 
+## 🛠️ Resource Guides and Tools
 
-<h2 align="left">🛠️ 42 Tools</h2>
-
-<table>
-<tr>
-<td>
-
-| [Common Code Guide](https://github.com/DevAwizard/Common_code_guide) | [42 Exams](https://github.com/DevAwizard/Exams_42) | [42 Resources](https://github.com/DevAwizard/42_resources) 🕑 In Progress |
-|--|--|--|
-
-</td>
-</tr>
-</table>
-
+| Resource | Description |
+|--|--|
+| [Common Code Guide](https://github.com/DevAwizard/Common_code_guide) | A comprehensive overview of 42 School's common projects, including evaluation criteria, languages used, peer collaboration guidelines, and expectations. This guide helps students understand the structure and requirements of each project. |
+| [42 Exams](https://github.com/DevAwizard/Exams_42) | A repository of study resources and strategies for passing exams at 42 School. |
+| [42 Resources](https://github.com/DevAwizard/42_resources) | 🕑 In Progress - Curating a comprehensive list of helpful resources for coding students at 42. |
 
 
 
@@ -62,13 +65,19 @@ I'm <b>Anita</b>, also known as DevAwizard .
 
 
 
-### 📊 Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAwizard&show_icons=true&locale=en&layout=compact&theme=dark" alt="DevAwizard" width="40%" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=DevAwizard&show_icons=true&locale=en&theme=dark" alt="DevAwizard" width="40%" />
 
 <br clear="both">
 
+
+### 📊  Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAwizard&show_icons=true&locale=en&theme=dark" alt="DevAwizard's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAwizard&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
+</div>
+
+
+<br clear="both">
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
