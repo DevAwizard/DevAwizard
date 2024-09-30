@@ -17,12 +17,6 @@ I'm **Anita**, also known as **DevAwizard**, an aspiring software engineer with 
 
 
 
-
-&emsp;
-
-
-
-
 ### **🌙 42 Common Core Projects Progress**
 
 | Project | Status | Description | Language Used |
