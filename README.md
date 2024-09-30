@@ -71,8 +71,23 @@ I'm **Anita**, also known as **DevAwizard**, an aspiring software engineer with 
 </div>
 
 
-<br clear="both">
+
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="mailto:devwizarda@gmail.com" target="_blank">
+    <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" style="margin-right: 20px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/annawuyang12" target="_blank">
+    <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" style="margin-left: 20px;" />
+  </a>
+</p>
+
+
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
+
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
+
 
 
