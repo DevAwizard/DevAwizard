@@ -35,7 +35,7 @@ I'm **Anita**, also known as **DevAwizard**, an aspiring software engineer with 
 | C++ Modules | ❌ Not Started | An introduction to the basics of C++ programming, object-oriented design, and modular coding. | C++ |
 | WebServer | ❌ Not Started | Develop a simple HTTP server to understand network programming and request handling. | C, HTTP |
 | Inception | ❌ Not Started | A project to explore Docker and virtualization by setting up multiple services using containers. | Docker, Linux |
-| Transcendence | ❌ Not Started | A full-stack web project intended to create a multiplayer game using a modern web technology stack. | JavaScript, HTML, CSS |
+| Transcendence | ❌ Not Started | A full-stack web project intended to create a multiplayer game using a modern web technology stack. | JavaScript, HTML, CSS, Python |
 
 
 
