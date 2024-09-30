@@ -73,14 +73,18 @@ I'm **Anita**, also known as **DevAwizard**, an aspiring software engineer with 
 
 
 <h3 align="center">Connect with Me</h3>
-<p align="center">
+<p align="center" style="font-size: 0;">
   <a href="mailto:devwizarda@gmail.com" target="_blank">
-    <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" style="margin-right: 20px;" />
+    <img src="assets/gmail.png" alt="mail" height="50" width="55" />
   </a>
   <a href="https://www.linkedin.com/in/annawuyang12" target="_blank">
-    <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" style="margin-left: 20px;" />
+    <img src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
 </p>
+
+
+
+
 
 
 
