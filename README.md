@@ -63,15 +63,17 @@ I'm **Anita**, also known as **DevAwizard**, an aspiring software engineer with 
 <br clear="both">
 
 
-### 📊  Stats
+
+### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAwizard&theme=dark" alt="GitHub Streak Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAwizard&show_icons=true&locale=en&theme=dark" alt="DevAwizard's GitHub Stats" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DevAwizard&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1" alt="GitHub Profile Trophy" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madebypixel02&theme=radical" alt="GitHub Streak Stats" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAwizard&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAwizard&show_icons=true&locale=en&theme=radical" alt="DevAwizard's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAwizard&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" width="48%" />
 </div>
 
 
