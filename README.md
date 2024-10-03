@@ -66,10 +66,13 @@ I'm **Anita**, also known as **DevAwizard**, an aspiring software engineer with 
 ### 📊  Stats
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAwizard&theme=dark" alt="GitHub Streak Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=DevAwizard&show_icons=true&locale=en&theme=dark" alt="DevAwizard's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAwizard&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAwizard&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
+</div>
 
 
 <h3 align="center">Connect with Me</h3>
@@ -81,9 +84,6 @@ I'm **Anita**, also known as **DevAwizard**, an aspiring software engineer with 
     <img src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
 </p>
-
-
-
 
 
 
