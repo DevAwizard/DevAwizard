@@ -43,7 +43,7 @@ I'm **Anita**, also known as **DevAwizard**, an aspiring software engineer with 
 
 | Resource | Description |
 |--|--|
-| [Common Code Guide](https://github.com/DevAwizard/Common_code_guide) | A comprehensive overview of 42 School's common projects, including evaluation criteria, languages used, peer collaboration guidelines, and expectations. This guide helps students understand the structure and requirements of each project. |
+| [42 Common Code Guide](https://github.com/DevAwizard/Common_code_guide) | A comprehensive overview of 42 School's common projects, including evaluation criteria, languages used, peer collaboration guidelines, and expectations. This guide helps students understand the structure and requirements of each project. |
 | [42 Exams](https://github.com/DevAwizard/Exams_42) | A repository of study resources and strategies for passing exams at 42 School. |
 | [42 Resources](https://github.com/DevAwizard/42_resources) | 🕑 In Progress - Curating a comprehensive list of helpful resources for coding students at 42. |
 
