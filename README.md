@@ -53,7 +53,7 @@ I'm **Anita**, also known as **DevAwizard**, an aspiring software engineer with 
 | Resource | Description |
 |--|--|
 | [Books](https://github.com/DevAwizard/Books) | A curated repository of freely available programming, computer science, and technology books and PDFs to support learning and professional growth|
-| [Toolbox](https://github.com/DevAwizard/Toolbox/blob/main/README.md) | A curated repository of freely available programming, computer science, and technology books and PDFs to support learning and professional growth|
+| [Toolbox](https://github.com/DevAwizard/Toolbox) | Collection of tools installed on my laptop for easy reference and setup. A personal resource for development and productivity.|
 
 
 
