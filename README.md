@@ -62,7 +62,7 @@ I'm **Anita**, also known as **DevAwizard**, an aspiring software engineer with 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,c,linux,vscode,md,bash,powershell,nvim" />
+    <img src="https://skillicons.dev/icons?i=github,git,c,linux,vscode,md,bash,powershell,neovim" />
   </a>
 </p>
 
