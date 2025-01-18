@@ -29,7 +29,7 @@ I'm **Anita**, also known as **DevAwizard**, an aspiring software engineer with 
 | [Push_Swap](https://github.com/DevAwizard/PushSwap_by_an-wuyan) | ✔️ Completed | Built a sorting algorithm using stacks, optimizing operations to minimize time complexity. | C |
 | [Pipex](https://github.com/DevAwizard/pipex_by_anwu-yan) | ✔️ Completed | Emulated shell pipelines in C, which strengthened my understanding of UNIX systems. | C |
 | [Minishell](https://github.com/DevAwizard/Minishell_by_anwu-yan_aurgonza) | 🕑 In Progress | Collaborating to create a custom shell, diving into process management and signals. | C, Shell |
-| Philosophers | ❌ Not Started | Planned to understand concurrency issues and deadlock solutions using the dining philosophers problem. | C |
+| Philosophers | 🕑 In Progress | Planned to understand concurrency issues and deadlock solutions using the dining philosophers problem. | C |
 | NetPractice | ❌ Not Started | A project aimed at gaining an understanding of networking fundamentals, including IP routing and subnetting. | Networking Concepts |
 | Cub3D | ❌ Not Started | A project focused on creating a simple 3D game engine, exploring ray-casting techniques. | C |
 | C++ Modules | ❌ Not Started | An introduction to the basics of C++ programming, object-oriented design, and modular coding. | C++ |
