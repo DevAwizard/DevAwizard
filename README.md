@@ -42,7 +42,7 @@ I'm **Anita**, also known as **DevAwizard**, an aspiring software engineer with 
 
 | Project | Status | Description | Language Used |
 |--|--|--|--|
-| [Cinema Reservation System with Special Pricing](https://github.com/DevAwizard/Cinema_Reservation_System_with_Special_Pricing) | ✔️ Completed | Developed a Python app (terminal version) to manage cinema reservations with discounts on specific days and reduced rates for seniors. | Python |
+| [Cinema Reservation System](https://github.com/DevAwizard/Cinema_Reservation_System_with_Special_Pricing) | ✔️ Completed | Developed a Python app (terminal version) to manage cinema reservations with discounts on specific days and reduced rates for seniors. | Python |
 
 ## 🛠️ Resource Guides and Tools
 
