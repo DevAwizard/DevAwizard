@@ -38,6 +38,11 @@ I'm **Anita**, also known as **DevAwizard**, an aspiring software engineer with 
 | Transcendence | ❌ Not Started | A full-stack web project intended to create a multiplayer game using a modern web technology stack. | JavaScript, HTML, CSS, Python |
 
 
+### **👣 Skill-building projects**
+
+| Project | Status | Description | Language Used |
+|--|--|--|--|
+| [Cinema Reservation System with Special Pricing](https://github.com/DevAwizard/Cinema_Reservation_System_with_Special_Pricing) | ✔️ Completed | Developed a Python app (terminal version) to manage cinema reservations with discounts on specific days and reduced rates for seniors. | Python |
 
 ## 🛠️ Resource Guides and Tools
 
