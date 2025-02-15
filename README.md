@@ -30,8 +30,8 @@ I'm **Anita**, also known as **DevAwizard**, an aspiring software engineer with 
 | [Pipex](https://github.com/DevAwizard/pipex_by_anwu-yan) | ✔️ Completed | Emulated shell pipelines in C, which strengthened my understanding of UNIX systems. | C |
 | [Minishell](https://github.com/DevAwizard/Minishell_by_joscastr_anwu-yan) | ✔️ Completed | Collaborating to create a custom shell, diving into process management and signals. | C, Shell |
 | [Philosophers](https://github.com/DevAwizard/Philosophers_by_anwu-yan) | ✔️ Completed | Planned to understand concurrency issues and deadlock solutions using the dining philosophers problem. | C |
-| NetPractice | ❌ Not Started | A project aimed at gaining an understanding of networking fundamentals, including IP routing and subnetting. | Networking Concepts |
-| Cub3D | ❌ Not Started | A project focused on creating a simple 3D game engine, exploring ray-casting techniques. | C |
+| [NetPractice](https://github.com/DevAwizard/Net_practice_by_anwu-yan/blob/main/README.md) | ⏳ In progress | A project aimed at gaining an understanding of networking fundamentals, including IP routing and subnetting. | Networking Concepts |
+| Cub3D | ⏳ In progress | A project focused on creating a simple 3D game engine, exploring ray-casting techniques. | C |
 | C++ Modules | ❌ Not Started | An introduction to the basics of C++ programming, object-oriented design, and modular coding. | C++ |
 | WebServer | ❌ Not Started | Develop a simple HTTP server to understand network programming and request handling. | C, HTTP |
 | Inception | ❌ Not Started | A project to explore Docker and virtualization by setting up multiple services using containers. | Docker, Linux |
